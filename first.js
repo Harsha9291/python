@@ -69,9 +69,15 @@ let b = 7;
 let cond1 = a > b; 
 let cond2 = b ===6;
 console.log("cond1 || cond2 =",cond1 || cond2);  //if any  condtion is true then its provide true 
-*/
+
 let a = 1;
 let b = 7;
 let cond1 = a > b; 
 let cond2 = b ===8;
-console.log("!(a<b)=",!(a<b));
+console.log("!(a<b)=",!(a<b));*/
+
+let a = 8;
+let b = 7;
+let cond1 = a > b; 
+let cond2 = b ===6;
+console.log("cond1 || cond2 =",cond1 || cond2);  //if any  condtion is true then its provide true 
